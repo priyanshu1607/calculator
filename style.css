@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(86, 83, 83);
+    font-size: 45px;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 597px;
+    height: 64px;
+    margin: 10px auto;
+}
+td {
+    background-color: lightblue;
+    border-radius: 81px;
+    text-align: center;
+    height: 140px;
+    width: 140px;
+}
+td:hover{
+    background-color: rgb(220, 113, 220);
+    cursor: pointer;
+}
